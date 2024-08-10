@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "5fa78c5f-5e32-4624-a39b-eb137adb64a8",
+        "username": "Carlos",
+        "password": "$2b$10$vCiD.4DHP.oodfsdNveEMea2aMBV363Qs13kDCglVQwWeFg06XYAq"
+    },
+    {
+        "_id": "1df8908f-5ade-41a0-9723-b18540405c69",
+        "username": "Miguel",
+        "password": "$2b$10$yerU84.3acZGyxlbUeErIuDF1Wq/ZzMJQh7H2AYRs0blHiR.4V4mO"
+    },
+    {
+        "_id": "7affebec-a1a0-4c82-b9c8-214970775d86",
+        "username": "Andres",
+        "password": "$2b$10$RdmxxaJMLjQKEDzxB0.ciu2wnbSeAz7nOTCWAoHXLZwg/hy3PGX1."
+    }
+]
